@@ -1,0 +1,3 @@
+# Az első tároló üres, a második tároló hibás
+GT4500,0,0,10,1
+TORPEDO,SINGLE  # A második tárolóból nem sikerül kilőni, az elsőből se
