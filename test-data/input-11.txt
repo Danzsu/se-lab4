@@ -1,0 +1,5 @@
+#Mindkét tárolóban van torpedó, és nem hibás
+GT4500,5,0,5,0
+TORPEDO,SINGLE # az első tárolóból egy torpedó sikeresen kilőve
+TORPEDO,SINGLE # a második tárolóból egy torpedó sikeresen kilőve
+TORPEDO,SINGLE # az első tárolóból még egy torpedó sikeresen kilőve

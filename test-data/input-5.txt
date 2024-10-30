@@ -1,0 +1,3 @@
+# Mindkét tárolóban van torpedó nem fog meghibásodni
+GT4500,10,0,10,0
+TORPEDO,ALL  # Az egyik tároló hibás, másik kilő minden torpedót

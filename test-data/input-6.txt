@@ -1,0 +1,3 @@
+# Mindkét tárolóban van torpedó, első tároló meghibásodik
+GT4500,10,1,10,0
+TORPEDO,ALL  # primary fails, secondary fires

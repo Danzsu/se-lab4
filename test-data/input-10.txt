@@ -1,0 +1,3 @@
+# Az első tároló üres, a másodikban van torpedó és nem tud hibás lenni
+GT4500,0,0,10,0
+TORPEDO,ALL  # Csak a második tárolóból tüzel

@@ -1,0 +1,4 @@
+#Mindkét tárolóban van torpedó, egyik tároló már kilőve nem fog meghibásodni
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # az első tárolóból tüzel
+TORPEDO,SINGLE  # a második tárolóból tüzel
